@@ -1,0 +1,1 @@
+This is example for creating a file in cmd using git commands
