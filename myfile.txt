@@ -2,3 +2,6 @@ This is example for creating a file in cmd using git commands.
 
 
 This is additional content.
+
+
+This content is added at branch1.
